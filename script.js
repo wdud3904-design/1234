@@ -1,5 +1,5 @@
 /**
- * Pastel Dream Wedding Invitation
+ * Pastel Dream 박우정 정지영
  * Korean Mobile 청첩장 - Script
  */
 
